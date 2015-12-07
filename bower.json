@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-inherits",
+  "authors": [
+    "LLeo <lleoem@gmail.com>"
+  ],
+  "description": "Node.js v5 style object inheritence",
+  "main": "index.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "node.js",
+    "nodejs",
+    "inherits",
+    "inherit",
+    "prototypal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
